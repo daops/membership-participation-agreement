@@ -2,7 +2,7 @@
 
 Thank you for joining the DAOPS Foundation (“Foundation”) to commit to accelerating global digital transformation through technical standardization.Members will enjoy the privileges and undertake the obligations described in the DAOPS Foundation Charter.
 
-This document is available for e-signing at http://www.daops.org/members/ . If you would prefer to complete this document as a PDF, you can email to info@daops.org. In either case, a countersigned copy of this application as well as an invoice will be returned to you by email. Membership rights and privileges will not be executed until payment in full of membership fees have been received by the Foundation. 
+This document is available for e-signing at https://www.daops.org/members/ . If you would prefer to complete this document as a PDF, you can email to info@daops.org. In either case, a countersigned copy of this application as well as an invoice will be returned to you by email. Membership rights and privileges will not be executed until payment in full of membership fees have been received by the Foundation. 
 
 **Name of Member Company:** ________________________________________________
 
