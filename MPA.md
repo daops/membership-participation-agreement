@@ -33,7 +33,7 @@ Please initial here if you ***do not want*** the Foundation to include your comp
 
 By signing below, the Member acknowledges and agrees that, when countersigned and accepted by The DAOPS Foundation, this application represents a binding contract between the parties and commits the Member to the following terms and obligations: 
 
-\1. Member will make payment of the annual participation fee within thirty days of date of invoice from 
+\1. Member will make payment of the annual participation fee within contract days of date of invoice from.
 
 the DAOPS Foundation. Notice of increase in participation fees for the following calendar year will be given on or before November 15th in the current calendar year. 
 
@@ -100,8 +100,14 @@ Twitter/GitHub/LinkedIn/Wechat handle: _________________________________________
 
 *Your primary contact for technical matters and participation in the technical oversight committee.* 
 
-**Marketing/PR Contact Name:** __________________________________________________ Title: _______________________________________________________
-Phone No: _______________________________________________________ E-Mail: _______________________________________________________ 
+**Marketing/PR Contact **
+
+Name: __________________________________________________ 
+
+Title: _______________________________________________________
+Phone No: _______________________________________________________ 
+
+E-Mail: _______________________________________________________ 
 
 Twitter/GitHub/LinkedIn/Wechat handle: __________________________________________ 
 
