@@ -23,7 +23,7 @@ Please check your desired Membership class:
 
 1. All Fee amounts are based in US Dollars. A full year’s payment of fees is due upon Membership. ***For non-Platinum members, a pro-rated amount of fees for the remainder of that calendar year will be assessed at the first anniversary of membership and membership will proceed on a calendar-year based renewal cycle thereafter.*** 
 2. ***Requires a 3-year membership commitment. At the first and second anniversary of membership the second and third full year’s payment is due. At the fourth anniversary of membership a pro-rated amount of fees for the remainder of that calendar year will be invoiced and membership will proceed on a calendar-year based renewal cycle thereafter.*** 
-3. ***Any member may resign from this corporation in a writing delivered to the Secretary of this Foundation, it should be more than 15 days before their renewal period.***
+3. ***Any member may resign from this Foundation in a writing delivered to the Secretary of this Foundation. A resigning member shall not be entitled to receive any refund, pro-rata or otherwise, of any membership dues, fees, or assessments for the balance of the calendar year in which the resignation is effective.The decision of the Board shall be final and shall not be reviewed by any court.***
 4. Please check the charter of Foundation to check the right and obligation of memebers.
 
 **PR:** 
