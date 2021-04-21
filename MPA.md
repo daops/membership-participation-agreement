@@ -73,7 +73,7 @@ Twitter/GitHub/LinkedIn/Wechat handle: _________________________________________
 
 Please select a method for receiving invoices: 
 
-PDF via email: _ 	Hard copy _ 
+PDF via email:☐	Hard copy ☐ 
 
 Is a Purchase Order required? ☐
 
