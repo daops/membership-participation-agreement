@@ -34,9 +34,7 @@ Please initial here if you ***do not want*** the Foundation to include your comp
 
 By signing below, the Member acknowledges and agrees that, when countersigned and accepted by The DAOPS Foundation, this application represents a binding contract between the parties and commits the Member to the following terms and obligations: 
 
-\1. Member will make payment of the annual participation fee within contract days of date of invoice from.
-
-the DAOPS Foundation. Notice of increase in participation fees for the following calendar year will be given on or before November 15th in the current calendar year. 
+\1. Member will make payment of the annual participation fee within contract days of the date of invoice from the DAOPS Foundation. Notice of increase in participation fees for the following calendar year will be given on or before November 15th in the current calendar year. 
 
 \2. Member's membership, and its obligation to pay membership dues for the following stub or calendar year, will continue to renew, unless the Member delivers written notice of non-renewal prior to the  Foundation on or before the first day or the last month of its initial membership term, or by December 1 of any calendar membership year. Member acknowledges that the Foundation and its members depend on reliable membership renewal information to budget effectively, and that the Foundation's ability to provide services to its members will suffer in the event of nonpayment of Member's membership dues. 
 
