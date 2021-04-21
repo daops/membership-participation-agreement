@@ -23,7 +23,8 @@ Please check your desired Membership class:
 
 1. All Fee amounts are based in US Dollars. A full year’s payment of fees is due upon Membership. ***For non-Platinum members, a pro-rated amount of fees for the remainder of that calendar year will be assessed at the first anniversary of membership and membership will proceed on a calendar-year based renewal cycle thereafter.*** 
 2. ***Requires a 3-year membership commitment. At the first and second anniversary of membership the second and third full year’s payment is due. At the fourth anniversary of membership a pro-rated amount of fees for the remainder of that calendar year will be invoiced and membership will proceed on a calendar-year based renewal cycle thereafter.*** 
-3. Please check the charter of Foundation to check the right and obligation of memebers.
+3. ***If a member applies to withdrawal, it must be 60 days before the expiration of the current membership service. If the current membership service is about to expire, there is no renewal intention, and there is no feedback of withdrawal intention within 2 weeks after the service period. The foundation will reduce the price to Non-Profit member, and the rights and obligations refer to the Non-Profit member.***
+4. Please check the charter of Foundation to check the right and obligation of memebers.
 
 **PR:** 
 
